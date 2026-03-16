@@ -1,4 +1,0 @@
-module.exports = {
-  BOT_TOKEN: "8070399900:AAHbaQ-LxMaNmqc0FdPjUx2Cv_ev5aiQAq4",
-  OWNER_ID: ["7440874718"],
-};
